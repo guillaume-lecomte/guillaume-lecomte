@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi 👋 My name is Guillaume Lecomte
+==============================
+Lead Developer 🖥️
+--------------------------------------
 
-<!--
-**guillaume-lecomte/guillaume-lecomte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello
 
-Here are some ideas to get you started:
+I'm technology enthusiast, who likes to face new challenges and a lifelong learner.
+* 🌍 I'm based in France, working exclusively in remote.
+* 🔭 Have a look at my personal [**Website**](https://guillaume-lecomte.fr) to find out more about me.
+* 🧠 I'm currently learning **TypeScript** and **Angular**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* 10 years of experience in tech
+* Product and technical mindset, user oriented
+* Technical strategy / Mentoring
+* R&D involvement
+* Entrepreneurial awareness
+
+<p align="center">  
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
