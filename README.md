@@ -8,7 +8,7 @@ Lead Developer 🖥️
 I'm technology enthusiast, who likes to face new challenges and a lifelong learner.
 * 🌍 I'm based in France, working exclusively in remote.
 * 🔭 Have a look at my personal [**Website**](https://guillaume-lecomte.fr) to find out more about me.
-* 🧠 I'm currently learning **TypeScript** and **Angular**.
+* 🧠 I'm currently learning **NestJs**.
 
 ## Skills
 
