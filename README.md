@@ -18,6 +18,6 @@ Hi there! I'm a tech enthusiast, lifelong learner, and lead developer with a pas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,react,nodejs,nestjs,mysql,git,mongodb,npm,py,redis" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,react,nodejs,nestjs,mysql,mongodb,npm,py,redis" />
   </a>
 </p>
