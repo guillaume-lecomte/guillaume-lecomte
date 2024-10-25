@@ -3,8 +3,8 @@
 Hi there! I'm a tech enthusiast, lifelong learner, and lead developer with a passion for building impactful products and solving complex challenges. With 14 years of experience in the tech industry, I bring a blend of strategic, technical, and user-centered thinking to every project.
 
 🌍 Based in France, working fully remotely  
-🔭 Check out my [personal website]([#](https://guillaume-lecomte.fr)) for more about my projects and interests  
-💼 Connect with me on [LinkedIn]([#](https://www.linkedin.com/in/guillaumelecomtefr)) for my professional experience
+🔭 Check out my [personal website](https://guillaume-lecomte.fr) for more about my projects and interests  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaumelecomtefr) for my professional experience
 
 ### Currently Exploring
 🧠 Expanding my skills with **K8S**
