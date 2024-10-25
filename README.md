@@ -1,29 +1,23 @@
-Hi 👋 My name is Guillaume Lecomte
-==============================
-Lead Developer 🖥️
---------------------------------------
+# Lead Developer 🚀
 
-## Hello
+Hi there! I'm a tech enthusiast, lifelong learner, and lead developer with a passion for building impactful products and solving complex challenges. With 14 years of experience in the tech industry, I bring a blend of strategic, technical, and user-centered thinking to every project.
 
-I'm technology enthusiast, who likes to face new challenges and a lifelong learner.
-* 🌍 I'm based in France, working exclusively in remote.
-* 🔭 Have a look at my personal [**Website**](https://guillaume-lecomte.fr) to find out more about me.
-* Also, my profesionnal page on [**Linkedin**](https://www.linkedin.com/in/guillaumelecomtefr)
-* 🧠 I'm currently learning **NestJs**.
+🌍 Based in France, working fully remotely  
+🔭 Check out my [personal website]([#](https://guillaume-lecomte.fr)) for more about my projects and interests  
+💼 Connect with me on [LinkedIn]([#](https://www.linkedin.com/in/guillaumelecomtefr)) for my professional experience
 
-## Skills
+### Currently Exploring
+🧠 Expanding my skills with **K8S**
 
-* 10 years of experience in tech
-* Product and technical mindset, user oriented
-* Technical strategy / Mentoring
-* R&D involvement
-* Entrepreneurial awareness
+### Skills & Expertise
+- **Technical Leadership**: Product-minded, user-oriented approach with a focus on delivering scalable solutions
+- **Mentorship**: Guiding teams and individuals to excel in their technical roles
+- **Technical Strategy**: Shaping technology roadmaps with a view on long-term success
+- **R&D**: Passionate about exploring new technologies and innovative approaches
+- **Entrepreneurial Mindset**: Balancing technical depth with business goals
 
-<p align="center">  
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,react,nodejs,nestjs,mysql,git,mongodb,npm,py,redis" />
+  </a>
 </p>
