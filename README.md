@@ -1,23 +1,40 @@
-# Lead Developer 🚀
+# Hi there 👋
 
-Hi there! I'm a tech enthusiast, lifelong learner, and lead developer with a passion for building impactful products and solving complex challenges. With 14 years of experience in the tech industry, I bring a blend of strategic, technical, and user-centered thinking to every project.
+I'm **Guillaume**, a CTO / Lead Developer with **14+ years of experience** building scalable products, distributed systems, and high-impact SaaS platforms.  
+I specialize in **software architecture**, **backend engineering**, and **DevOps**, with a strong product mindset and a focus on clean, reliable, maintainable software.
 
-🌍 Based in France, working fully remotely  
-🔭 Check out my [personal website](https://guillaume-lecomte.fr) for more about my projects and interests  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaumelecomtefr) for my professional experience
+🌍 Based in France — working fully remotely  
+💼 Connect on **[LinkedIn](https://www.linkedin.com/in/guillaumelecomtefr)**  
 
-### Currently Exploring
-🧠 Expanding my skills with **K8S**
+---
 
-### Skills & Expertise
-- **Technical Leadership**: Product-minded, user-oriented approach with a focus on delivering scalable solutions
-- **Mentorship**: Guiding teams and individuals to excel in their technical roles
-- **Technical Strategy**: Shaping technology roadmaps with a view on long-term success
-- **R&D**: Passionate about exploring new technologies and innovative approaches
-- **Entrepreneurial Mindset**: Balancing technical depth with business goals
+## 🔬 What I'm Exploring
+- Deepening my expertise in **Kubernetes** and cloud-native architectures  
+- Strengthening my experience in modern backend stacks & AI-driven systems  
+
+---
+
+## 🛠️ Skills & Expertise
+
+### **Engineering & Architecture**
+- Designing **robust, scalable architectures** for SaaS platforms  
+- Expertise in **API design**, distributed systems, performance, and security  
+- Strong experience with **TypeScript / Node.js**, Python, microservices & event-driven patterns  
+
+### **DevOps & Cloud**
+- Kubernetes, Docker, CI/CD, GitOps  
+- Cloud-native tooling, infrastructure as code, observability  
+
+### **Leadership & Product**
+- Technical leadership aligned with product strategy  
+- Mentorship & team structuring  
+- R&D mindset: exploring, validating, and deploying innovative solutions  
+- Business-aware engineering bridging tech choices & long-term goals  
+
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,react,nodejs,nestjs,mysql,mongodb,npm,py,redis" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,js,ts,react,nodejs,nestjs,py,redis,mysql,postgres,mongodb" />
   </a>
 </p>
