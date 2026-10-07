@@ -19,8 +19,9 @@ Based in France, fully remote. Open to **CTO, Fractional CTO or Head of AI Engin
 | A team to build from nothing | Hired, structured and mentored it, from first hire to CTO | Manager |
 | AI agents that crash, cost too much and quietly get worse | An agent platform with durable runs, cost routing and an eval gate in CI (below) | AI engineering |
 
-The production work is not public. The projects below are smaller, runnable illustrations of the same habits.
-Each README says what works, how I checked it, and what does not work yet.
+The production work is not public. Team sizes, scope, the decisions behind these results and how I work with AI agents are
+detailed on **[my LinkedIn](https://www.linkedin.com/in/guillaumelecomtefr)**. The projects below are smaller, runnable
+illustrations of the same habits. Each README says what works, how I checked it, and what does not work yet.
 
 ---
 
